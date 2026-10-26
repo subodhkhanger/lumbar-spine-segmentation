@@ -1,0 +1,17 @@
+.venv/
+.inference_venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+.DS_Store
+.env
+.env.*
+data/
+cache/
+training/
+outputs/
+*.nii
+*.nii.gz
+*.pt
+*.pth
+*.zip

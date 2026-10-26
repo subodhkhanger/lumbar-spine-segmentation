@@ -1,0 +1,9 @@
+torch==2.8.0
+torchvision==0.23.0
+nnunetv2==2.8.1
+dynamic-network-architectures==0.4.4
+numpy==2.2.6
+scipy==1.15.3
+nibabel==5.3.2
+typing_extensions==4.16.0
+pytest==8.4.2
